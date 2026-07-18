@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Monster-3000/Leetcode-Git/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/Monster-3000/Leetcode-Git/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Monster-3000/Leetcode-Git/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Monster-3000/Leetcode-Git/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Monster-3000/Leetcode-Git/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Monster-3000/Leetcode-Git/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Monster-3000/Leetcode-Git/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Monster-3000/Leetcode-Git/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Monster-3000/Leetcode-Git/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Monster-3000/Leetcode-Git/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Monster-3000/Leetcode-Git/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Monster-3000/Leetcode-Git/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
