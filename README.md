@@ -67,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Monster-3000/Leetcode-Git/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Monster-3000/Leetcode-Git/tree/master/0402-remove-k-digits) |
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Monster-3000/Leetcode-Git/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Monster-3000/Leetcode-Git/tree/master/0402-remove-k-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
