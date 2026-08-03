@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Monster-3000/Leetcode-Git/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Monster-3000/Leetcode-Git/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Monster-3000/Leetcode-Git/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/Monster-3000/Leetcode-Git/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Monster-3000/Leetcode-Git/tree/master/2104-sum-of-subarray-ranges) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Monster-3000/Leetcode-Git/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Monster-3000/Leetcode-Git/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
