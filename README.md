@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Monster-3000/Leetcode-Git/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Monster-3000/Leetcode-Git/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Monster-3000/Leetcode-Git/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0877-stone-game) |
 ## Enumeration
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Monster-3000/Leetcode-Git/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Monster-3000/Leetcode-Git/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monster-3000/Leetcode-Git/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Monster-3000/Leetcode-Git/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
