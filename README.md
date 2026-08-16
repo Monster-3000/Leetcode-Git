@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Monster-3000/Leetcode-Git/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Monster-3000/Leetcode-Git/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Monster-3000/Leetcode-Git/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Monster-3000/Leetcode-Git/tree/master/0136-single-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Monster-3000/Leetcode-Git/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Monster-3000/Leetcode-Git/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0877-stone-game) |
 ## Enumeration
