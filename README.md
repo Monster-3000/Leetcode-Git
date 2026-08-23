@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Monster-3000/Leetcode-Git/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Monster-3000/Leetcode-Git/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Monster-3000/Leetcode-Git/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Monster-3000/Leetcode-Git/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0877-stone-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Monster-3000/Leetcode-Git/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/Monster-3000/Leetcode-Git/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Monster-3000/Leetcode-Git/tree/master/0021-merge-two-sorted-lists) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Monster-3000/Leetcode-Git/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
