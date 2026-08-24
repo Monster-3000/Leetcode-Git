@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Monster-3000/Leetcode-Git/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Monster-3000/Leetcode-Git/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Monster-3000/Leetcode-Git/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Monster-3000/Leetcode-Git/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Monster-3000/Leetcode-Git/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Monster-3000/Leetcode-Git/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Monster-3000/Leetcode-Git/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Monster-3000/Leetcode-Git/tree/master/0204-count-primes) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Monster-3000/Leetcode-Git/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monster-3000/Leetcode-Git/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Monster-3000/Leetcode-Git/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Monster-3000/Leetcode-Git/tree/master/0067-add-binary) |
 | [0402-remove-k-digits](https://github.com/Monster-3000/Leetcode-Git/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Hash Table
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Monster-3000/Leetcode-Git/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Monster-3000/Leetcode-Git/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
