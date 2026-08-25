@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Monster-3000/Leetcode-Git/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Monster-3000/Leetcode-Git/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Monster-3000/Leetcode-Git/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Monster-3000/Leetcode-Git/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Monster-3000/Leetcode-Git/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Monster-3000/Leetcode-Git/tree/master/0506-relative-ranks) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Monster-3000/Leetcode-Git/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Monster-3000/Leetcode-Git/tree/master/0992-subarrays-with-k-different-integers) |
@@ -180,11 +182,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Monster-3000/Leetcode-Git/tree/master/0992-subarrays-with-k-different-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Monster-3000/Leetcode-Git/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Monster-3000/Leetcode-Git/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Monster-3000/Leetcode-Git/tree/master/1046-last-stone-weight) |
@@ -208,13 +212,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Monster-3000/Leetcode-Git/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Monster-3000/Leetcode-Git/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Monster-3000/Leetcode-Git/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Monster-3000/Leetcode-Git/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
