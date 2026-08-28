@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monster-3000/Leetcode-Git/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Monster-3000/Leetcode-Git/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Monster-3000/Leetcode-Git/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Monster-3000/Leetcode-Git/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/Monster-3000/Leetcode-Git/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Hash Table
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Monster-3000/Leetcode-Git/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monster-3000/Leetcode-Git/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Monster-3000/Leetcode-Git/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
