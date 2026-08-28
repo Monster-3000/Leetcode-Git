@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Monster-3000/Leetcode-Git/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Monster-3000/Leetcode-Git/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Monster-3000/Leetcode-Git/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/Monster-3000/Leetcode-Git/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Monster-3000/Leetcode-Git/tree/master/0907-sum-of-subarray-minimums) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Monster-3000/Leetcode-Git/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Monster-3000/Leetcode-Git/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Monster-3000/Leetcode-Git/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Monster-3000/Leetcode-Git/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Monster-3000/Leetcode-Git/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Monster-3000/Leetcode-Git/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Monster-3000/Leetcode-Git/tree/master/0846-hand-of-straights) |
 ## Sliding Window
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Monster-3000/Leetcode-Git/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Monster-3000/Leetcode-Git/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Monster-3000/Leetcode-Git/tree/master/0846-hand-of-straights) |
 ## Divide and Conquer
 |  |
 | ------- |
