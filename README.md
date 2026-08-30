@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Monster-3000/Leetcode-Git/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Monster-3000/Leetcode-Git/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Monster-3000/Leetcode-Git/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monster-3000/Leetcode-Git/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Monster-3000/Leetcode-Git/tree/master/0125-valid-palindrome) |
+| [0295-find-median-from-data-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Monster-3000/Leetcode-Git/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Monster-3000/Leetcode-Git/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Monster-3000/Leetcode-Git/tree/master/0621-task-scheduler) |
@@ -217,11 +220,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Monster-3000/Leetcode-Git/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Monster-3000/Leetcode-Git/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Monster-3000/Leetcode-Git/tree/master/0621-task-scheduler) |
