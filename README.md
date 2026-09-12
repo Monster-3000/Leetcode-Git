@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Monster-3000/Leetcode-Git/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Monster-3000/Leetcode-Git/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Monster-3000/Leetcode-Git/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0078-subsets) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Monster-3000/Leetcode-Git/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Monster-3000/Leetcode-Git/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/Monster-3000/Leetcode-Git/tree/master/0678-valid-parenthesis-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Monster-3000/Leetcode-Git/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Monster-3000/Leetcode-Git/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Monster-3000/Leetcode-Git/tree/master/0455-assign-cookies) |
