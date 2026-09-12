@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Monster-3000/Leetcode-Git/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Monster-3000/Leetcode-Git/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/Monster-3000/Leetcode-Git/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Monster-3000/Leetcode-Git/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Monster-3000/Leetcode-Git/tree/master/0907-sum-of-subarray-minimums) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Monster-3000/Leetcode-Git/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Monster-3000/Leetcode-Git/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Monster-3000/Leetcode-Git/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Monster-3000/Leetcode-Git/tree/master/0860-lemonade-change) |
 ## Sliding Window
 |  |
 | ------- |
