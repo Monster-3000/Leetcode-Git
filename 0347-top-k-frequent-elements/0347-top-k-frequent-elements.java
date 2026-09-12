@@ -6,7 +6,7 @@ class Solution {
             map.put(i,map.getOrDefault(i,0)+1);
         }
         for(int j:map.keySet()){
-            pq.offer(j);
+            pq.add(j);
         }
         int[] n = new int[k];
         int count = 0;
