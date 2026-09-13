@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Monster-3000/Leetcode-Git/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Monster-3000/Leetcode-Git/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Monster-3000/Leetcode-Git/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Monster-3000/Leetcode-Git/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0078-subsets) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Monster-3000/Leetcode-Git/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Monster-3000/Leetcode-Git/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Monster-3000/Leetcode-Git/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Monster-3000/Leetcode-Git/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
