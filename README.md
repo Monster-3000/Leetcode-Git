@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Monster-3000/Leetcode-Git/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Monster-3000/Leetcode-Git/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Monster-3000/Leetcode-Git/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Monster-3000/Leetcode-Git/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Monster-3000/Leetcode-Git/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Monster-3000/Leetcode-Git/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Monster-3000/Leetcode-Git/tree/master/0232-implement-queue-using-stacks) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Monster-3000/Leetcode-Git/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Monster-3000/Leetcode-Git/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Monster-3000/Leetcode-Git/tree/master/0678-valid-parenthesis-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Monster-3000/Leetcode-Git/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
