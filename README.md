@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Monster-3000/Leetcode-Git/tree/master/1046-last-stone-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Monster-3000/Leetcode-Git/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/Monster-3000/Leetcode-Git/tree/master/2104-sum-of-subarray-ranges) |
+| [2540-minimum-common-value](https://github.com/Monster-3000/Leetcode-Git/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Backtracking
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Monster-3000/Leetcode-Git/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2540-minimum-common-value](https://github.com/Monster-3000/Leetcode-Git/tree/master/2540-minimum-common-value) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Monster-3000/Leetcode-Git/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/Monster-3000/Leetcode-Git/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Monster-3000/Leetcode-Git/tree/master/0455-assign-cookies) |
+| [2540-minimum-common-value](https://github.com/Monster-3000/Leetcode-Git/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Monster-3000/Leetcode-Git/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/Monster-3000/Leetcode-Git/tree/master/1004-max-consecutive-ones-iii) |
+| [2540-minimum-common-value](https://github.com/Monster-3000/Leetcode-Git/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
