@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Monster-3000/Leetcode-Git/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Monster-3000/Leetcode-Git/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/Monster-3000/Leetcode-Git/tree/master/0877-stone-game) |
+| [2409-count-days-spent-together](https://github.com/Monster-3000/Leetcode-Git/tree/master/2409-count-days-spent-together) |
 ## Enumeration
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Monster-3000/Leetcode-Git/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Monster-3000/Leetcode-Git/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/Monster-3000/Leetcode-Git/tree/master/2409-count-days-spent-together) |
 ## Hash Table
 |  |
 | ------- |
