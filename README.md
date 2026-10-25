@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Monster-3000/Leetcode-Git/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Monster-3000/Leetcode-Git/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Monster-3000/Leetcode-Git/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/Monster-3000/Leetcode-Git/tree/master/1254-number-of-closed-islands) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Monster-3000/Leetcode-Git/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/Monster-3000/Leetcode-Git/tree/master/2104-sum-of-subarray-ranges) |
 | [2540-minimum-common-value](https://github.com/Monster-3000/Leetcode-Git/tree/master/2540-minimum-common-value) |
@@ -318,10 +319,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Monster-3000/Leetcode-Git/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monster-3000/Leetcode-Git/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Monster-3000/Leetcode-Git/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/Monster-3000/Leetcode-Git/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Monster-3000/Leetcode-Git/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Monster-3000/Leetcode-Git/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Monster-3000/Leetcode-Git/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Monster-3000/Leetcode-Git/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Monster-3000/Leetcode-Git/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Monster-3000/Leetcode-Git/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
