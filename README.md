@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Monster-3000/Leetcode-Git/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Monster-3000/Leetcode-Git/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Monster-3000/Leetcode-Git/tree/master/1254-number-of-closed-islands) |
+| [3310-remove-methods-from-project](https://github.com/Monster-3000/Leetcode-Git/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Monster-3000/Leetcode-Git/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Monster-3000/Leetcode-Git/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Monster-3000/Leetcode-Git/tree/master/1254-number-of-closed-islands) |
+| [3310-remove-methods-from-project](https://github.com/Monster-3000/Leetcode-Git/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Monster-3000/Leetcode-Git/tree/master/1254-number-of-closed-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Monster-3000/Leetcode-Git/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
