@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Monster-3000/Leetcode-Git/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Monster-3000/Leetcode-Git/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Monster-3000/Leetcode-Git/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Monster-3000/Leetcode-Git/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Monster-3000/Leetcode-Git/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Monster-3000/Leetcode-Git/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Monster-3000/Leetcode-Git/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Backtracking
 |  |
 | ------- |
