@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Monster-3000/Leetcode-Git/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Monster-3000/Leetcode-Git/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Monster-3000/Leetcode-Git/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Monster-3000/Leetcode-Git/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Monster-3000/Leetcode-Git/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Monster-3000/Leetcode-Git/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Monster-3000/Leetcode-Git/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
