@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Monster-3000/Leetcode-Git/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Monster-3000/Leetcode-Git/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Monster-3000/Leetcode-Git/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Monster-3000/Leetcode-Git/tree/master/0069-sqrtx) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Monster-3000/Leetcode-Git/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Monster-3000/Leetcode-Git/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monster-3000/Leetcode-Git/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Monster-3000/Leetcode-Git/tree/master/0038-count-and-say) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monster-3000/Leetcode-Git/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Monster-3000/Leetcode-Git/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/Monster-3000/Leetcode-Git/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Monster-3000/Leetcode-Git/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Monster-3000/Leetcode-Git/tree/master/0621-task-scheduler) |
